@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+input {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+select {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+textarea {
+  width: 200px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
